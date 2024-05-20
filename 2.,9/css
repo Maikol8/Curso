@@ -1,0 +1,19 @@
+/*colores,tamaños y tipos de letra */
+a{
+    color:rgb(126, 176, 24);
+    font-size: 12pp
+}
+body{font-family: verdana;}
+caption{color:blueviolet#000;font-size: 14px;}
+h1{color:aqua#333;font-size: 20px;}
+h2{color:#333;font-size: 16px;}
+p,li,td{color: rgb(92, 13, 249);font-size: 12px;}
+th{color:rgb(198, 15, 15);font-size: 12px;}
+
+
+/*table*/
+table,td,th{border: 1px solid black;}
+table{border-collapse: collapse;}
+td,th{padding: 10px;text-align: center;}
+thead{background: gray;}
+tfoot{background: blue;}
